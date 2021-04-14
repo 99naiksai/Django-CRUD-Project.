@@ -1,4 +1,4 @@
-# Django-CRUD-Project.
+# Django-CRUD-Project(Function).
 ### Created a project using Django Framework where you can create , retrieve , update , delete (CRUD) on a single page .
 ### Created project structure in model , functionality in view.
 
